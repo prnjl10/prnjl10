@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Pranjal 👋
 
-<!--
-**prnjl10/prnjl10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. Electrical & Computer Engineering, UC Davis (2026)  
+Specializing in **Design Verification**, **FPGA development** and **FPGA-based hardware acceleration**.
 
-Here are some ideas to get you started:
+I enjoy building and verifying digital hardware systems: from RTL design 
+to silicon-level validation, and from SoC acceleration to PCB design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Interests
+- Design Verification (SystemVerilog, UVM, assertion-based verification)
+- FPGA Acceleration (Xilinx Zynq, Intel MAX10, PYNQ)
+- Hardware-Software Co-design on SoCs
+- Embedded ML acceleration
+- PCB Design (Altium)
+
+## Skills
+**HDL:** SystemVerilog · Verilog · VHDL  
+**Verification:** UVM · Assertions · Functional Coverage  
+**FPGA Tools:** Vivado · Quartus · PYNQ Framework  
+**Languages:** Python · C/C++  
+**Hardware:** Xilinx Zynq-7000 · Intel MAX10 · AXI4/DMA
+
+---
+
+## Featured Projects
+-  [DMA-Driven FIR Accelerator on PYNQ-Z2](https://github.com/prnjl10/dma-fir-accelerator-pynq-z2) — 4.77× speedup over SciPy via AXI-DMA + Xilinx FIR Compiler
+-  [DE10-Lite RISC-V Core](https://github.com/prnjl10/DE10-Lite-RISC-V-Core) — 4-stage pipelined RV32I CPU on Intel MAX10 FPGA
+- 
+---
+
+🎓 Open to **Design Verification** and **FPGA Engineer** roles  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/pranjal-trivedi/)
