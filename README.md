@@ -1,9 +1,9 @@
-# Hi, I'm Pranjal 👋
+# Hi, I'm Pranjal...
 
 M.S. Electrical & Computer Engineering, UC Davis (2026)  
 Specializing in **Design Verification**, **FPGA development** and **FPGA-based hardware acceleration**.
 
-I enjoy building and verifying digital hardware systems: from RTL design 
+I love building and verifying digital hardware systems: from RTL design 
 to silicon-level validation, and from SoC acceleration to PCB design.
 
 ---
@@ -27,7 +27,7 @@ to silicon-level validation, and from SoC acceleration to PCB design.
 ## Featured Projects
 -  [DMA-Driven FIR Accelerator on PYNQ-Z2](https://github.com/prnjl10/dma-fir-accelerator-pynq-z2) — 4.77× speedup over SciPy via AXI-DMA + Xilinx FIR Compiler
 -  [DE10-Lite RISC-V Core](https://github.com/prnjl10/DE10-Lite-RISC-V-Core) — 4-stage pipelined RV32I CPU on Intel MAX10 FPGA
-- 
+-  Coming soon!
 ---
 
 🎓 Open to **Design Verification** and **FPGA Engineer** roles  
