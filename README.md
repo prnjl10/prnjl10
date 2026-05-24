@@ -30,6 +30,8 @@ to silicon-level validation, and from SoC acceleration to PCB design.
 -  Coming soon!
 ---
 
-Open to **Design Verification** and **FPGA Engineer** roles 
+Open to **Design Verification** and **FPGA Engineer** roles
+
 See my work at: https://prnjl10.github.io/pranjals-portfolio/
+
 Reach me on [LinkedIn](https://www.linkedin.com/in/pranjal-trivedi/)
