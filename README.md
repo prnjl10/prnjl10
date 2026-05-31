@@ -25,6 +25,7 @@ to silicon-level validation, and from SoC acceleration to PCB design.
 ---
 
 ## Recent Projects
+-  [HFT on PYNQ-Z2](https://github.com/prnjl10/hft-pynq-z2) - ITCH 5.0 Decoder on Xilinx Zynq SoC
 -  [DMA-Driven FIR Accelerator on PYNQ-Z2](https://github.com/prnjl10/dma-fir-accelerator-pynq-z2) — 4.77× speedup over SciPy via AXI-DMA + Xilinx FIR Compiler
 -  [DE10-Lite RISC-V Core](https://github.com/prnjl10/DE10-Lite-RISC-V-Core) — 4-stage pipelined RV32I CPU on Intel MAX10 FPGA
 -  Coming soon!
