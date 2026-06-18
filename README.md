@@ -27,7 +27,7 @@ to silicon-level validation, and from SoC acceleration to PCB design.
 ## Recent Projects
 -  [HFT on PYNQ-Z2](https://github.com/prnjl10/hft-pynq-z2) - ITCH 5.0 Decoder on Xilinx Zynq SoC
 -  [DMA-Driven FIR Accelerator on PYNQ-Z2](https://github.com/prnjl10/dma-fir-accelerator-pynq-z2) — 4.77× speedup over SciPy via AXI-DMA + Xilinx FIR Compiler
--  [Network Packet Inspector on PYNQ-Z2](https://github.com/prnjl10/network-packet-inspection-engine-pynq-z2)) — 1 Gbps line-rate, hardware-accelerated packet inspection engine on Xilinx Zynq SoC
+-  [Network Packet Inspector on PYNQ-Z2](https://github.com/prnjl10/network-packet-inspection-engine-pynq-z2) — 1 Gbps line-rate, hardware-accelerated packet inspection engine on Xilinx Zynq SoC
 -  Coming soon!
 ---
 
