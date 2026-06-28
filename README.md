@@ -12,7 +12,7 @@ to silicon-level validation, and from SoC acceleration to PCB design.
 - Design Verification (SystemVerilog, UVM, assertion-based verification)
 - FPGA Acceleration (Xilinx Zynq, Intel MAX10, PYNQ)
 - Hardware-Software Co-design on SoCs
-- Embedded ML acceleration
+- ML acceleration
 - PCB Design (Altium)
 
 ## Skills
